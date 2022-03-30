@@ -21,7 +21,7 @@ for (let i = 0; i < invitati.length; i++){
 
 
 if (puo_entrare){
-    console.log("entra");
+    alert("entra alla festa");
 } else {
-    console.log("non entra")
+    alert("non puoi entrare alla festa")
 }
